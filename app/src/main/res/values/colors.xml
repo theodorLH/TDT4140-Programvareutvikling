@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CD5555</color>
+    <color name="colorPrimaryDark">#008080</color>
+    <color name="colorSecondary">#9eccd3</color>
+    <color name="textColorPrimary">#0b083d</color>
+    <color name="background">#FFFBEA</color>
+    <color name="counterButton">#F6C8C2</color>
+    <color name="waitingColor">#ea8383</color>
+    <color name="confirmedColor">#ea8383</color>
+    <color name="pickupColor">#008080</color>
+    <color name="canceledColor">#CD5555</color>
+    <color name="textColorDark">#4b4d51</color>
+    <color name="white">#ffffff</color>
+    <color name="pickuptimeColor">#7eb6bf</color>
+
+</resources>
